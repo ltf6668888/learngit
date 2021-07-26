@@ -1,4 +1,4 @@
 const foo = {
-  name: "小李子",
-  age:24
+  name: "小王",
+  age:18
 }
