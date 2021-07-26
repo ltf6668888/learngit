@@ -3,6 +3,7 @@ const foo = {
   age: 59,
   sex: "男",
   friend: {
-    name:"黄磊"
+    name: "黄磊",
+    age:99
   }
 }
